@@ -61,7 +61,7 @@ Tổng tiền: (6.660.000 - 333.000) + 300.000 = 6.627.000 đồng
 
 ### b) Kiểm tra kết quả AI
 
-(Ghi kết luận AI đúng hay sai; nếu sai, ghi bước sai đầu tiên và kết quả đúng của bước đó – xoá dòng này)
+AI trả lời đúng theo yêu cầu
 
 ## 4.4. Dây chuyền xử lý khiếu nại – kết quả Trạm 1
 
